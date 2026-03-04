@@ -34,5 +34,8 @@ A custom image picker implementation handles media selection using delegation.
 
 ## 📸 Screenshots
 
-![Editor Screen](Screenshots/EditDrink.png)
-![History Screen](Screenshots/History+Map.png)
+### Edit Drink Screen
+![Edit Drink Screen](Screenshots/EditDrink.PNG)
+
+### History + Map View
+![History and Map](Screenshots/History+Map.PNG)
