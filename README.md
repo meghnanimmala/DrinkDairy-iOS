@@ -40,7 +40,3 @@ A custom image picker implementation handles media selection using delegation.
 ### History + Map View
 ![History and Map](Screenshots/History+Map.PNG)
 
-<p align="center">
-  <img src="Screenshots/EditDrink.PNG" width="45%" />
-  <img src="Screenshots/History+Map.PNG" width="45%" />
-</p>
