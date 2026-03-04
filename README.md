@@ -1,5 +1,5 @@
 # DrinkDairy-iOS
-Location-aware iOS drink tracking application built with UIKit, CoreLocation, MapKit, and persistent image storage.
+Location-aware iOS drink tracking application built with UIKit, CoreLocation, MapKit, Image Uploads, and persistent storage.
 
 DrinkDiary 📍☕️
 DrinkDiary is a location-aware iOS application that allows users to log drinks from cafés, attach photos, and automatically capture the location of each entry using CoreLocation.
